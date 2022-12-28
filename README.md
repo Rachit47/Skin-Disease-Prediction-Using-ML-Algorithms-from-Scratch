@@ -1,6 +1,6 @@
 # Skin-Disease-Prediction-Using-ML-Algorithms-from-Scratch
-### [Decision Tree & K-Nearest Neighbours classification models have been applied on this dataset. Both the algorithms are implemented from scratch without using Scikit learn library]
 ## Aim: To determine the type of Erythemato-Squamous Disease
+### [Decision Tree & K-Nearest Neighbours classification models have been applied on the dataset. Both the algorithms are implemented from scratch without using Scikit learn library]
 The differential diagnosis of erythemato-squamous diseases is a real problem in 
 dermatology. They all share the clinical features of erythema and scaling, with very 
 little differences. The diseases in this group are: -
